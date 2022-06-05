@@ -1,0 +1,47 @@
+
+
+window:
+   padding:
+      x: 10
+      y: 10
+   opacity: 0.6
+   decorations: none
+
+
+
+
+
+colors:
+  # Default colors
+  primary:
+    background: '#1c1c1f'
+    foreground: '#FCFCFA'
+
+  # Normal colors
+  normal:
+    black:   '#403E41'
+    red:     '#FF6188'
+    green:   '#A9DC76'
+    yellow:  '#FFD866'
+    blue:    '#FC9867'
+    magenta: '#AB9DF2'
+    cyan:    '#78DCE8'
+    white:   '#FCFCFA'
+
+  # Bright colors
+  bright:
+    black:   '#727072'
+    red:     '#FF6188'
+    green:   '#A9DC76'
+    yellow:  '#FFD866'
+    blue:    '#FC9867'
+    magenta: '#AB9DF2'
+    cyan:    '#78DCE8'
+    white:   '#FCFCFA'
+
+cursor:
+   style:
+      shape: Underline
+      blinking: On
+      blink-interval: 750
+      
